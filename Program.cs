@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace zany_zoo
+namespace ZanyZoo
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
